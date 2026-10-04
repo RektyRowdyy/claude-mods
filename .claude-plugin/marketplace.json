@@ -1,0 +1,13 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "rektyrowdyy" },
+  "metadata": { "description": "Claude Code mods: function-hook plugins that add live UI inside Claude Code" },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "Band above the prompt: 5h/7d rate-limit usage with reset countdowns, session cache tokens and cost",
+      "version": "0.1.0"
+    }
+  ]
+}

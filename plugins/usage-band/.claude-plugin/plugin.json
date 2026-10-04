@@ -1,0 +1,9 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Band above the prompt: 5h/7d rate-limit usage with reset countdowns, session cache tokens and cost",
+  "author": { "name": "rektyrowdyy" },
+  "repository": "https://github.com/RektyRowdyy/claude-mods",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
